@@ -17,7 +17,7 @@ A mini gift store project that provides a seamless shopping experience for users
 ### Setting up the Frontend (Flutter)
 1. Clone the repository:
    ```bash
-   git clone https://github.com/username/Project-Flutter-And-Laravel-simple-Shop-Gifts-main/FrontEnd Flutter/.git/
+   git clone https://github.com/username/Flutter-Project-Simple-Gift-And-Antiques-Store-Frontend.git
    ```
 2. Install the required packages:
    ```bash
